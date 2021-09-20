@@ -1,33 +1,4 @@
-/*
-* Template Name: Animado - Animation & Cartoon Studio Template
-* Author:  Giantco
-* Author URL: https://themeforest.net/user/giantco
-* Version: 1.0
-*/
 
-/* =============================================================================
-
-[Table of contents]
-
-0.0 Common CSS START 
-1.0 HEADER AREA START 
-2.0 BANNER AREA START
-3.0 FEATURE AREA START
-4.0 ABOUT AREA START
-5.0 GALLERY AREA START
-6.0 PRODUCT AREA START
-7.0 TEAM AREA START
-8.0 rarity AREA START
-9.0 REVIEW AREA START
-10.0 CONTACT AREA START 
-11.0 gallery AREA START 
-12.0 SUBSCRIBE AREA START 
-13.0 FOOTER AREA START 
-14.0 COPY_RIGHT AREA START 
- 
-/*===========================
-0.0 *** Common CSS START ***
-=============================*/
 * {
     margin: 0;
     padding: 0;
@@ -551,7 +522,7 @@ border-color:  #be4646 !important;
 2.0 *** BANNER AREA START ***
 =============================*/
 #banner {
-    padding: 200px 0 100px;
+    padding: 180px 0 100px;
     position: relative;
     width: 100%;
     /* background-image: url('../../images/bg1.jpg');
@@ -714,7 +685,7 @@ border-color:  #be4646 !important;
     transform: translateY(-50%);
     z-index: -11;
 }
-
+/* 
 .unique-style::before {
     position: absolute;
     content: '';
@@ -806,7 +777,7 @@ border-color:  #be4646 !important;
     width: 10px;
     background: #d04c4c;
     z-index: -1;
-}
+} */
 
 .header-text h3 {
     font-size: 37px;
@@ -902,6 +873,7 @@ over-btn a i {
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     border-radius: 10px;
+    padding: 25px;
 
 }
 
@@ -917,7 +889,7 @@ over-btn a i {
     position: relative;
 }
 
-.ai-one::after {
+/* .ai-one::after {
     position: absolute;
     content: '';
     top: 350px;
@@ -927,9 +899,9 @@ over-btn a i {
     border: 25px solid #d1d1d1;
     z-index: -1;
     border-radius: 50%;
-}
+} */
 
-.ai-two::after {
+/* .ai-two::after {
     position: absolute;
     content: '';
     top: 344px;
@@ -941,9 +913,9 @@ over-btn a i {
     -webkit-transform: rotate(35deg);
     -ms-transform: rotate(35deg);
     transform: rotate(35deg);
-}
+} */
 
-.ai-three::after {
+/* .ai-three::after {
     position: absolute;
     content: '';
     top: 350px;
@@ -953,7 +925,7 @@ over-btn a i {
     border: 25px solid #d1d1d1;
     z-index: -1;
     border-radius: 50%;
-}
+} */
 
 
 .separet-span {
