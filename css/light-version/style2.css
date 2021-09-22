@@ -525,9 +525,13 @@ border-color:  #be4646 !important;
     padding: 180px 0 100px;
     position: relative;
     width: 100%;
-    /* background-image: url('../../images/bg1.jpg');
+    /* background-color: green; */
+    /* background-image: url('../../images/banner.png'); */
+    background: rgb(250,134,7);
+    /* background: linear-gradient(180deg, rgba(250,134,7,1) 0%, rgba(250,150,27,1) 20%, rgba(252,176,51,1) 50%, rgba(254,204,81,1) 80%); */
+    background-image: url('../../images/banner.png');
     background-size: cover;
-    background-repeat: no-repeat; */
+    background-repeat: no-repeat;
 }
 
 /* #banner::after {
