@@ -4,18 +4,18 @@
 }
 
 #index2 .navbar-light .navbar-toggler {
-    color: #131313;
+    color: #ffffff;
     outline: 0;
 }
 
 #index3 .navbar-light .navbar-toggler,
 #index4 .navbar-light .navbar-toggler {
-    color: #131313;
+    color: #ffffff;
     outline: 0;
 }
 
 .navbar-light .navbar-toggler {
-    color: #131313;
+    color: #ffffff;
     outline: 0;
 }
 
@@ -188,7 +188,7 @@
     }
 
     #product {
-        padding: 60px 0;
+        padding: 140px 0 100px;
     }
 
     .product-pa {
@@ -380,7 +380,7 @@
     }
 
     #product {
-        padding: 50px 0;
+        padding: 180px 0;
     }
 
     .mob-img-hide {
@@ -610,7 +610,7 @@
     }
 
     #product {
-        padding: 65px 0;
+        padding: 150px 0 70px;
     }
 
     .stars i {
